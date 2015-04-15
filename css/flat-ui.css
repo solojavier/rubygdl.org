@@ -192,12 +192,12 @@ you can use the generic selector below, but it's slower:
 }
 .demo-logo .logo {
   background: url(../images/demo/logo-mask.png) center 0 no-repeat;
-  background-size: 128px 93px;
-  height: 93px;
+  background-size: 256px 186px;
+  height: 186px;
   margin: 0 auto 26px;
   overflow: hidden;
   text-indent: -9999em;
-  width: 128px;
+  width: 256px;
 }
 .demo-logo small {
   color: rgba(52, 73, 94, 0.30000000000000004);
